@@ -1,3 +1,12 @@
+
+/**
+ *@auther: Suraj Dubey
+ *@JAVA Notepad (JNotepad)
+ *@version# 2.0
+ */
+ 
+
+
 //import the packages for using the classes in them into the program
 import java.awt.*;
 import java.awt.print.*;

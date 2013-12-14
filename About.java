@@ -1,3 +1,11 @@
+
+/**
+ *@auther: Suraj Dubey
+ *@JAVA™ Notepad (JNotepad)
+ *@version# 2.0
+ */
+ 
+
 //import the packages for using the classes in them into this class
 import java.awt.*;
 import javax.swing.*;
